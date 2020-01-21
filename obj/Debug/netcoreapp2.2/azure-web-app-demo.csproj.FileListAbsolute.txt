@@ -1,0 +1,14 @@
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\bin\Debug\netcoreapp2.2\azure-web-app-demo.deps.json
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\bin\Debug\netcoreapp2.2\azure-web-app-demo.runtimeconfig.json
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\bin\Debug\netcoreapp2.2\azure-web-app-demo.runtimeconfig.dev.json
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\bin\Debug\netcoreapp2.2\azure-web-app-demo.dll
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\bin\Debug\netcoreapp2.2\azure-web-app-demo.pdb
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.csprojAssemblyReference.cache
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.csproj.CoreCompileInputs.cache
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.RazorAssemblyInfo.cache
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.RazorAssemblyInfo.cs
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.AssemblyInfoInputs.cache
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.AssemblyInfo.cs
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.RazorTargetAssemblyInfo.cache
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.dll
+C:\Workspace\AZ203\azure-web-app-demo\azure-web-app-demo\obj\Debug\netcoreapp2.2\azure-web-app-demo.pdb
