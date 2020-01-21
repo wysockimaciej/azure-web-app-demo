@@ -27,7 +27,7 @@ namespace azure_web_app_demo
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                await context.Response.WriteAsync("Web App Demo is here!");
             });
         }
     }
